@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Developing since 2019<br>📚 Computer Science<br>🎯 I always try to trow up my skills</p>
+<p align="left">✨ Developing since 2019<br>📚 Computer Science<br>🎯 I always try to grow up my skills</p>
 
 ###
 
