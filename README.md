@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Vincenzo and I'm a FullStack Developer from Italy</p>
+<p align="left">My name is Vincenzo and I'm a Developer from Italy</p>
 
 ###
 
